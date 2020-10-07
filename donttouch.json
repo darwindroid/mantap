@@ -1,0 +1,27 @@
+{
+
+  "username": "novalenanst",
+  "album": [
+    "donttouch"
+  ],
+  "init_jumlah_photo": 50,
+  "pub_id": "ub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861~6736086165",
+  "admob_banner_id": "ca-app-pub-5734425672942861/6544514471",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/1292187790",
+  "admob_native_id": "ca-app-pub-5734425672942861/3535207750",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "interstitial_inverval": 1,
+
+  "primary_ads": "ADMOB"
+}
