@@ -1,0 +1,27 @@
+{
+
+  "username": "novalenanst",
+  "album": [
+    "military"
+  ],
+  "init_jumlah_photo": 50,
+  "pub_id": "pub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861~5198631455",
+  "admob_banner_id": "ca-app-pub-5734425672942861/2380896424",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/3502406405",
+  "admob_native_id": "ca-app-pub-5734425672942861/4209500335",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "interstitial_inverval": 1,
+
+  "primary_ads": "FAN"
+}
