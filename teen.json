@@ -1,0 +1,27 @@
+{
+
+  "username": "novalenanst",
+  "album": [
+    "teenwall"
+  ],
+  "init_jumlah_photo": 50,
+  "pub_id": "pub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861~1823010145",
+  "admob_banner_id": "ca-app-pub-5734425672942861/4886488885",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/3573407210",
+  "admob_native_id": "ca-app-pub-5734425672942861/1730159737",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "interstitial_inverval": 1,
+
+  "primary_ads": "ADMOB"
+}
