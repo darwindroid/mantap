@@ -4,11 +4,11 @@
     "melaninwall"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "pub-2645249444311791",
-  "app_id": "ca-app-pub-2645249444311791~4831851906",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "pub_id": "pub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861~6713466051",
+  "admob_banner_id": "ca-app-pub-5734425672942861/3332284936",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/6521894369",
+  "admob_native_id": "ca-app-pub-5734425672942861/5025297099",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -22,5 +22,5 @@
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "FAN"
+  "primary_ads": "ADMOB"
 }
