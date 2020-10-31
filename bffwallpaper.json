@@ -11,11 +11,11 @@
   "admob_interstitial_id": "ca-app-pub-5734425672942861/8399509861",
   "admob_native_id": "ca-app-pub-5734425672942861/9521019843",
 
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "donate",
+  "admob_hpk_3": "hosting",
+  "admob_hpk_4": "mesothelioma",
+  "admob_hpk_5": "charity",
 
   "fan_banner_id": "354657335653449_354843015634881",
   "fan_interstitial_id": "354657335653449_354657598986756",
