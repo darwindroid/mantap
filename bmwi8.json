@@ -20,7 +20,7 @@
   "fan_interstitial_id": "406822016992085_406823936991893",
   "fan_native_id": "406822016992085_406824253658528",
 
-  "interstitial_inverval": 1,
+  "interstitial_inverval": 2,
 
-  "primary_ads": "FAN"
+  "primary_ads": "ADMOB"
 }
