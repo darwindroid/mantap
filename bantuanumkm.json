@@ -73,6 +73,16 @@
       "image":"http://hexa.web.id/lord.jpg",
       "link":"http://hexa.web.id/guide_2.html",
       "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
+    },
+
+    {
+      "id":3,
+      "id_guide":"003",
+      "nama_cat":"Medium",
+      "judul":"Mobile Legend Update",
+      "image":"http://hexa.web.id/lord.jpg",
+      "link":"http://hexa.web.id/guide_2.html",
+      "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
     }
 
   ]
