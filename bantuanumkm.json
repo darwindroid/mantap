@@ -64,7 +64,7 @@
     },
     {
       "id": 3,
-      "nama_cat": "Hard",
+      "nama_cat": "Link UMKM online",
       "gambar": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
     
     }
@@ -94,11 +94,11 @@
   {
     "id":3,
      "id_guide":"003",
-    "nama_cat":"Medium",
-    "judul":"Mobile Legend Update",
-    "image":"http://hexa.web.id/lord.jpg",
-    "link":"http://hexa.web.id/guide_2.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
+    "nama_cat":"Link UMKM online",
+    "judul":"Link Daftar UMKM online",
+    "image":"https://user-images.githubusercontent.com/63693514/97949073-126f9f00-1dc5-11eb-9047-b178ea389828.jpg",
+    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/linknya.html",
+    "deskripsi":"Berikut link cara daftar UMKM online di beberapa wilayah:"
   }
 
 ]
