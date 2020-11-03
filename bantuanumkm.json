@@ -53,13 +53,13 @@
     {
       "id": 1,
       "nama_cat": "Syarat Bantuan",
-      "gambar": "https://github.com/darwindroid/mantap/blob/main/syarat.jpg"
+      "gambar": "https://user-images.githubusercontent.com/63693514/97948090-09c99980-1dc2-11eb-9360-d4128fd0e51c.jpg"
      
     },
     {
       "id": 2,
       "nama_cat": "Cara Daftar Banpres UMKM",
-      "gambar": "https://cdn02.indozone.id/re/content/2019/11/21/8Js7rN/t_5dd64b08483f2.jpg?w=700&q=85"
+      "gambar": "https://user-images.githubusercontent.com/63693514/97948090-09c99980-1dc2-11eb-9360-d4128fd0e51c.jpg"
     
     },
     {
@@ -87,7 +87,7 @@
     "nama_cat":"Cara Daftar",
     "judul":"Cara Daftar Banpres UMKM",
     "image":"https://user-images.githubusercontent.com/63693514/97948090-09c99980-1dc2-11eb-9360-d4128fd0e51c.jpg",
-    "link":"file:///android_asset/guide_2.html",
+    "link":"https://raw.githubusercontent.com/darwindroid/gambar/main/caradaftarumkm.html",
     "deskripsi":"Berikut adalah cara daftar UMKM biar dapat Banpres Rp 2,4 juta"
   },
 
