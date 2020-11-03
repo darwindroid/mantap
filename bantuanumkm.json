@@ -53,7 +53,7 @@
     {
       "id": 1,
       "nama_cat": "Syarat Bantuan",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+      "gambar": "https://github.com/darwindroid/mantap/blob/main/syarat.jpg"
      
     },
     {
@@ -77,7 +77,7 @@
     "id_guide":"001",
     "nama_cat":"Syarat Bantuan",
     "judul":"Syarat Bantuan UMKM",
-    "image":"http://hexa.web.id/pubg.jpg",
+    "image":"https://github.com/darwindroid/mantap/blob/main/syarat.jpg",
     "link":"http://hexa.web.id/guide_1.html",
     "deskripsi":"Adapun syarat yang harus dipenuhi untuk mendapatkan bantuan UMKM adalah sebagai berikut"
   },
