@@ -58,7 +58,7 @@
     },
     {
       "id": 2,
-      "nama_cat": "Medium",
+      "nama_cat": "Cara Daftar Banpres UMKM",
       "gambar": "https://cdn02.indozone.id/re/content/2019/11/21/8Js7rN/t_5dd64b08483f2.jpg?w=700&q=85"
     
     },
@@ -84,11 +84,11 @@
   {
     "id":2,
      "id_guide":"002",
-    "nama_cat":"Easy",
-    "judul":"Trik Tersembunyi Lord Mobile MON",
-    "image":"file:///android_asset/gambar/ml.jpg",
+    "nama_cat":"Cara Daftar",
+    "judul":"Cara Daftar Banpres UMKM",
+    "image":"https://user-images.githubusercontent.com/63693514/97948090-09c99980-1dc2-11eb-9360-d4128fd0e51c.jpg",
     "link":"file:///android_asset/guide_2.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi"
+    "deskripsi":"Berikut adalah cara daftar UMKM biar dapat Banpres Rp 2,4 juta"
   },
 
   {
