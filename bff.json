@@ -1,27 +1,35 @@
 {
-
   "username": "novalenanst",
   "album": [
     "bffwall"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861~4320895564",
+  "admob_banner_id": "ca-app-pub-5734425672942861/5979467294",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/5787895608",
+  "admob_native_id": "ca-app-pub-5734425672942861/2642679908",
 
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
 
-  "fan_banner_id": "641508200058012_641508636724635",
-  "fan_interstitial_id": "641508200058012_642195093322656",
-  "fan_native_id": "641508200058012_642192223322943",
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "mopub_banner_id": "7e4112cf402e4bb5978e0359fbc45aa7",
+  "mopub_interstitial_id": "7fc5cdacebb6416aba3387db1e0e1ad1",
+  "mopub_native_id": "c2f6531b841c4552a01620552c910b98",
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "FAN"
+  "primary_ads": "MOPUB",
+  "list_ads": [
+    "MOPUB",
+    "ADMOB",
+    "FAN"
+  ]
 }
