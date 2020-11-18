@@ -4,23 +4,32 @@
     "animeboy"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861/5866438185",
+  "admob_banner_id": "ca-app-pub-5734425672942861/197394713",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/8347783795",
+  "admob_native_id": "ca-app-pub-5734425672942861/2584321221",
 
-  "admob_hpk_1": "insurance",
-  "admob_hpk_2": "donate",
-  "admob_hpk_3": "mesothelioma lawyer directory",
-  "admob_hpk_4": "mesothelioma",
-  "admob_hpk_5": "bitcoin",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
 
-  "fan_banner_id": "354530135972933_354530549306225",
-  "fan_interstitial_id": "354530135972933_354531165972830",
-  "fan_native_id": "354530135972933_354531345972812",
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "mopub_banner_id": "c11ff773c6364baca57ec2a32a7d696d",
+  "mopub_interstitial_id": "b58b012fd01741afa4cb4d3fadf90b35",
+  "mopub_native_id": "f14681876c7346628fe2075cf3bfd5f0",
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "FAN"
+  "primary_ads": "MOPUB",
+  "list_ads": [
+    "MOPUB",
+    "ADMOB",
+    "FAN"
+  ]
 }
