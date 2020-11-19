@@ -4,23 +4,32 @@
     "bmw"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861~4846662684",
+  "admob_banner_id": "ca-app-pub-5734425672942861/6526262208",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/9469293776",
+  "admob_native_id": "ca-app-pub-5734425672942861/9377794434",
 
-  "admob_hpk_1": "mesothelioma",
-  "admob_hpk_2": "cloud hosting",
-  "admob_hpk_3": "Mortgage",
-  "admob_hpk_4": "Donate",
-  "admob_hpk_5": "Attorney",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
 
-  "fan_banner_id": "406822016992085_406822556992031",
-  "fan_interstitial_id": "406822016992085_406823936991893",
-  "fan_native_id": "406822016992085_406824253658528",
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "mopub_banner_id": "e61e3a00738349659ff29b6d8f08a912",
+  "mopub_interstitial_id": "cd38106df9de4d8ebc5ef779a38ea815",
+  "mopub_native_id": "9e02e22b2bfe4319898b2141fce1c3b1",
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "FAN"
+  "primary_ads": "MOPUB",
+  "list_ads": [
+    "MOPUB",
+    "ADMOB",
+    "FAN"
+  ]
 }
