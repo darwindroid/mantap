@@ -5,11 +5,11 @@
     "teenwall"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861~1823010145",
+  "admob_banner_id": "ca-app-pub-5734425672942861/6313104248",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/3686940902",
+  "admob_native_id": "ca-app-pub-5734425672942861/8628276397",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
