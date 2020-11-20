@@ -5,11 +5,11 @@
     "chiron"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861~1090019571",
+  "admob_banner_id": "ca-app-pub-5734425672942861/3011303423",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/6361383312",
+  "admob_native_id": "ca-app-pub-5734425672942861/6548907966",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -23,5 +23,5 @@
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "FAN"
+  "primary_ads": "ADMOB"
 }
