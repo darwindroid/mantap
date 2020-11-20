@@ -5,11 +5,11 @@
     "girlymwall"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "pub_id": "pub-5734425672942861",
+  "app_id": "ca-app-pub-5734425672942861~87436417106",
+  "admob_banner_id": "ca-app-pub-5734425672942861/1837822556",
+  "admob_interstitial_id": "ca-app-pub-5734425672942861/9266570646",
+  "admob_native_id": "ca-app-pub-5734425672942861/9921176762",
 
   "admob_hpk_1": "insurance",
   "admob_hpk_2": "donate",
@@ -23,5 +23,5 @@
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "FAN"
+  "primary_ads": "ADMOB"
 }
