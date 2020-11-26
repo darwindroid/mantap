@@ -20,7 +20,16 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
+  "mopub_banner_id": "",
+  "mopub_interstitial_id": "",
+  "mopub_native_id": "",
+
   "interstitial_inverval": 2,
 
-  "primary_ads": "ADMOB"
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "MOPUB",
+    "ADMOB",
+    "FAN"
+  ]
 }
