@@ -22,7 +22,7 @@
 
   "startapp_app_id": "abcdasd",
 
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 2,
 
   "list_ads": [
     "STARTAPP",
