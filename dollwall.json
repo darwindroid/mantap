@@ -5,10 +5,10 @@
   ],
   "init_jumlah_photo": 50,
   "pub_id": "pub-5734425672942861",
-  "app_id": "ca-app-pub-5734425672942861~6984164456",
-  "admob_banner_id": "ca-app-pub-5734425672942861/9949096926",
-  "admob_interstitial_id": "ca-app-pub-5734425672942861/4070084288",
-  "admob_native_id": "ca-app-pub-5734425672942861/5710469018",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -20,13 +20,13 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "mopub_banner_id": "",
-  "mopub_interstitial_id": "",
-  "mopub_native_id": "",
+  "mopub_banner_id": "c9917720b30243baae36ce9eea4f723f",
+  "mopub_interstitial_id": "007e8e3064684c21a5c2d6c6e062009c",
+  "mopub_native_id": "817fc095b9d245a38b7b0c5222115e34",
 
   "interstitial_inverval": 2,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "MOPUB",
   "list_ads": [
     "MOPUB",
     "ADMOB",
